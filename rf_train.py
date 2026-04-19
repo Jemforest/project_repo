@@ -14,7 +14,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 # =====================
 # Load dataset
 # =====================
-df = pd.read_csv("bangladesh_student_performance.csv")
+df = pd.read_csv("bangladesh_student_performance_2018.csv")
 
 print(df)
 
